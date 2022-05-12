@@ -1,8 +1,8 @@
 ### Olá, Sou o Louandre 👋
 
-###🧑🏻 💻 Bem Vindo ao meu GitHub
+-🧑🏻 💻 | Bem Vindo ao meu GitHub
 
-###🖥️ | de desenvolvedores back-end C#
+-🖥️ | Desenvolvedores Back-end C#
 <!--
 **LouandreH/LouandreH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
